@@ -14,7 +14,6 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v4 v4.24.9
 	github.com/valyala/fasthttp v1.56.0
-	github.com/xtls/xray-core v1.8.25-0.20241002041629-e45cef542e26
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.19.0
 	google.golang.org/grpc v1.67.1
@@ -34,6 +33,7 @@ require (
 	github.com/ebitengine/purego v0.8.0 // indirect
 	github.com/fasthttp/router v1.5.2 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.5 // indirect
+	github.com/giantizmo/xray-core v0.0.0-20241008215309-694aa1cae5ba // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
