@@ -1,3 +1,6 @@
+## 3X-UI AmneziaWG Edition - Just modded from me for me
+# ACHTUNG! WARNING! ВНИМАНИЕ! I was modded XTLS-Core for replace WireGuard to AmneziaWG. I was too lazy to make this better, no one pay me for it (i am begginer for golang). If you want use - use.
+
 [English](/README.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md)
 
 <p align="center"><a href="#"><img src="./media/3X-UI.png" alt="Image"></a></p>
